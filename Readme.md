@@ -32,7 +32,7 @@
 | Strategy | ⏳      |
 | State    | ⏳      |
 
-## System Design Problems
+## Problems
 | Problem                                              | Status |
 | ---------------------------------------------------- | ------ |
 | Elevator Management System (State Pattern)           | ⏳      |
