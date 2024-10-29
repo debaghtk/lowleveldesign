@@ -1,4 +1,4 @@
-# Design Patterns & System Design Practice
+# Object Oriented Design and Design Patterns Practice
 
 ## SOLID Principles
 | Principle             | Status |
